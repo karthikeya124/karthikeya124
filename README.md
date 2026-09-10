@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-Year B.E. Artificial Intelligence & Machine Learning student at CBIT<br>💯 Current CGPA: 8.30/10<br>💻 Passionate about Software Development, AI, and Problem Solving<br>🌱 Currently learning MERN Stack and Backend Development<br>🧩 Solved 200+ DSA Problems on LeetCode<br>🚀 Building real-world projects using Python, Flask, FAISS, and LLMs<br>🎯 Looking for Software Engineering & Full-Stack Development Internship Opportunities
+🎓 Final-Year B.E. Artificial Intelligence & Machine Learning student at CBIT<br>💯 Current CGPA: 8.41/10<br>💻 Passionate about Software Development, AI, and Problem Solving<br>🌱 Currently learning MERN Stack and Backend Development<br>🧩 Solved 200+ DSA Problems on LeetCode<br>🚀 Building real-world projects using Python, Flask, FAISS, and LLMs<br>🎯 Looking for Software Engineering & Full-Stack Development Internship Opportunities
 
 
 ## 🌐 Socials:
